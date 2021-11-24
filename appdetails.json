@@ -17,5 +17,7 @@
   ],
   "free":[
     {"id":0, "file":0, "city":"Mumbai","country":"India","image":"germany","ip":"34.93.20.175","active":"true","signal":"a"},
+    {"id":1, "file":1, "city":"Chicago","country":"US","image":"unitedstates","ip":"34.93.20.175","active":"true","signal":"a"},
+    {"id":2, "file":2, "city":"UK","UK":"India","image":"unitedkingdom","ip":"34.93.20.175","active":"true","signal":"a"},
   ]
 }

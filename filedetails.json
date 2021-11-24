@@ -5,14 +5,14 @@ setenv FORWARD_COMPATIBLE 1
 client
 server-poll-timeout 4
 nobind
-remote 35.200.184.66 1194 udp
-remote 35.200.184.66 1194 udp
-remote 35.200.184.66 443 tcp
-remote 35.200.184.66 1194 udp
-remote 35.200.184.66 1194 udp
-remote 35.200.184.66 1194 udp
-remote 35.200.184.66 1194 udp
-remote 35.200.184.66 1194 udp
+remote 34.93.20.175 udp
+remote 34.93.20.175 udp
+remote 34.93.20.175 tcp
+remote 34.93.20.175 udp
+remote 34.93.20.175 udp
+remote 34.93.20.175 udp
+remote 34.93.20.175 udp
+remote 34.93.20.175 udp
 dev tun
 dev-type tun
 ns-cert-type server
